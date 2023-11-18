@@ -1,0 +1,24 @@
+# Dependency directory
+node_modules/
+
+# Environment configuration
+.env
+
+# Build output
+dist/
+
+# MacOS system files
+**/.DS_Store
+
+# Editor configurations
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Cache
+.cache/
+
+# User uploaded files
+/uploads/
